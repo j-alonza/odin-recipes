@@ -1,0 +1,1 @@
+Hello, in this project I will be creating a recipe website based on an assignment found here: https://www.theodinproject.com/lessons/foundations-recipes
